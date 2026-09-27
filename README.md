@@ -6,7 +6,7 @@
 
 | 폴더 | 내용 |
 |---|---|
-| `ee214/` | 회귀·분류·군집화와 신경망 실습 |
+| `ee214/` | 기계학습 기초·실습(EE214): 회귀·분류·군집화와 신경망 |
 | `machine-learning/` | bias–variance, 로지스틱 회귀, 심층 신경망, Langevin sampling |
 | `deep-learning/` | VAE를 이용한 이미지 생성 |
 | `big-data/` | 데이터 처리 알고리즘, GraphSAGE, Bloom filter와 Spark 실습 |
